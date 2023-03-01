@@ -1,6 +1,11 @@
-a = int(input())
-b = int(input())
+def main():
+    a = int(input())
+    b = int(input())
+    
+    x = a + b
 
-x = a + b
+    print("X = " + str(x))
 
-print('X = %i' % x)
+
+if __name__ == '__main__':
+    main()
