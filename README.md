@@ -1,2 +1,2 @@
 # URIOnlineJudge
-URI Online Judge exercises in Java, for practicing.
+URI Online Judge exercises in Java and Python, for practicing.
